@@ -48,7 +48,7 @@ public class app {
 
     public static void exampleForRandom(){
 
-        Random r = new Random(12);
+        Random r = new Random();
 
         int x = 1 + r.nextInt(10);
 
