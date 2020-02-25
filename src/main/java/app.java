@@ -12,6 +12,8 @@ public class app {
 
        int randomNumber = rand.nextInt(10);
 
+        System.out.println(randomNumber);
+
 
     }
 
