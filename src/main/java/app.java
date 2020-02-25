@@ -4,6 +4,46 @@ public class app {
 
     public static void main(String[] args) {
 
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+        exampleForRandom();
+
     }
 
     public static void exampleForRandom(){
